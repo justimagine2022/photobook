@@ -78,7 +78,6 @@ section ol li + li {
   margin-top: 16px;
 }
 
-/* .background-white */
  .content {
   background: #fff;
   padding: 32px 0px;
@@ -150,10 +149,6 @@ footer {
 
   footer {
     margin-top: 84px;
-  }
-
-
-
-  
+  }  
 }
 
