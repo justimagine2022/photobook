@@ -78,7 +78,8 @@ section ol li + li {
   margin-top: 16px;
 }
 
-.background-white {
+/* .background-white */
+ .content {
   background: #fff;
   padding: 32px 0px;
   margin-top: 64px;
